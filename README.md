@@ -1,9 +1,10 @@
 # sdf
 
 ## run
-1. Create a virtual env
+1. Create/activate a virtual env
 ```
 python3 -m venv venv
+source ./venv/bin/activate
 ```
 2. Install requirements
 ```
